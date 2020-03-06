@@ -11,7 +11,7 @@ class DisplayPost extends Component {
 					this.props.click(this.props.id);
 				}}
 			>
-				{this.props.title} {this.props.id}
+				{this.props.username}
 			</li>
 		);
 	}

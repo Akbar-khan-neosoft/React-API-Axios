@@ -5,7 +5,6 @@ import Blog from './Component/Blog';
 function App() {
 	return (
 		<div className="App">
-			APP
 			<Blog />
 		</div>
 	);

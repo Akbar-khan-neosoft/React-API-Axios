@@ -21,7 +21,7 @@ class Post extends Component {
 							click={this.props.click}
 							key={this.props.id}
 							id={this.props.id}
-							title={this.props.title}
+							username={this.props.username}
 						/>
 					</ul>
 				</section>
